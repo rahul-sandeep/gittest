@@ -1,5 +1,6 @@
 <html>
 <body>
+
 	<table border=1 cellspacing=0 cellpadding=10px >
 	<tr>
 		<th><?php echo "S.No" ?></th> 
@@ -8,7 +9,7 @@
 	</tr>
 	<tr>
 		<td><?php echo 1 ?></td> 
-		<td><?php echo "Pushpa" ?></td>
+		<td><?php echo "Puja" ?></td>
 		<td><?php echo "pushpa@aapthitech.com" ?></td>
 	</tr>
 	<tr> 
