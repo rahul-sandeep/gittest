@@ -14,8 +14,8 @@
 	</tr>
 	<tr> 
 		<td><?php echo 2 ?></td> 
-		<td><?php echo "Dharani" ?></td>
-		<td><?php echo "Dharani@aapthitech.com" ?></td>
+		<td><?php echo "Dj" ?></td>
+		<td><?php echo "Dj@aapthitech.com" ?></td>
 	</tr>
 	<tr> 
 		<td><?php echo 3 ?></td> 
